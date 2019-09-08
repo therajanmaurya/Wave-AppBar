@@ -1,4 +1,4 @@
-# wave_appbar
+# Wave-AppBar
 
 A Wave-AppBar Example
 
