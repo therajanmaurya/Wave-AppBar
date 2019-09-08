@@ -2,6 +2,8 @@
 
 A Wave-AppBar Example
 
+<img src="https://github.com/therajanmaurya/Wave-AppBar/blob/master/wave_appbar.gif" width="500" height="1000" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
